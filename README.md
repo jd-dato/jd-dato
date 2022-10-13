@@ -12,4 +12,4 @@ I am interested in using Data Visualization and Quantitative methods to communic
 - LATEX
 
 ## 📈 Stats
-[![J.D. Dato's GitHub stats](https://github-readme-stats.vercel.app/api?username=jd-dato(jd-dato))](https://github.com/jd-dato/github-readme-stats)
+[![J.D. Dato's GitHub stats](https://github-readme-stats.vercel.app/api?username=jd-dato))](https://github.com/jd-dato/github-readme-stats)
