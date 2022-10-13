@@ -15,4 +15,4 @@
 [![J.D. Dato's GitHub stats](https://github-readme-stats.vercel.app/api?username=jd-dato)](https://github.com/jd-dato/github-readme-stats)
 
 ## 🔗Connect with me!
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)]((https://www.instagram.com/jd.dato)
+![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)((https://www.instagram.com/jd.dato)
